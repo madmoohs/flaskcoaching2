@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: ap-southeast-1
-  ECR_REPOSITORY: yourname-flask-private-repository
+  ECR_REPOSITORY: muhs-flask-private-repository
 
 jobs:
   build:
